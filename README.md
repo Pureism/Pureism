@@ -75,7 +75,7 @@
 
 ![pureism's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureism&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureism?theme=dark" alt="pureism" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureism&theme=dark" alt="pureism" /></p>
 
 </div>
 
