@@ -2,7 +2,7 @@
 
 ![This is a alt text.](https://thedeveloperstory.com/wp-content/uploads/2021/09/programmer-giphy.gif)
     
-<h1>Hi, I'm Pureism👋<h5><i>"Code, Sleep, Lofi"</i></h5></h1>
+<h1>Hi, I'm Pureism👋<h5><i>"Code, Sleep, Arghhh!!!!"</i></h5></h1>
     
 </div>
 <div align="center">
