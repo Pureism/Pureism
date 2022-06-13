@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>Hi, I'm Muhammad Ammar Nabil👋<h5><i>"Code, Sleep, Lofi"</i></h5></h1>
+![This is a alt text.](https://thedeveloperstory.com/wp-content/uploads/2021/09/programmer-giphy.gif)
+    
+<h1>Hi, I'm Pureism👋<h5><i>"Code, Sleep, Lofi"</i></h5></h1>
     
 </div>
 <div align="center">
@@ -73,7 +75,7 @@
 
 ![pureism's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureism&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureism&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515" alt="pureism" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureism" alt="pureism" /></p>
 
 </div>
 
@@ -83,8 +85,6 @@
 ![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
 <br>
 <br>
-
-![This is a alt text.](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 
 <!---
 pureism/pureism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
