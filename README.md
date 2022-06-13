@@ -75,13 +75,13 @@
 
 ![pureism's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureism&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureism" alt="pureism" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureism?theme=dark" alt="pureism" /></p>
 
 </div>
 
 ## 🤙 Call me 
 ![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
-![Github URL](https://img.shields.io/twitter/url?color=24292e&label=pureism&logo=github&style=flat-square&url=https://github.com/pureism) 
+![Github URL](https://img.shields.io/twitter/url?color=24292e&label=manabil&logo=github&style=flat-square&url=https://github.com/manabil) 
 ![Instagram URL](https://img.shields.io/twitter/url?color=e4405f&label=%40ammar__nabil&logo=instagram&style=flat-square&url=https://instagram.com/ammar__nabil) ![Email URL](https://img.shields.io/twitter/url?color=ea4335&label=mammarnabil%40gmail.com&logo=gmail&style=flat-square&url=https%3A%2F%2Fgmail.com)
 <br>
 <br>
