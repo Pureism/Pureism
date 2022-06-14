@@ -71,9 +71,9 @@
 
 ## 📃 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pureism&layout=compact&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pureism&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)
 
-![pureism's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureism&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)
+![pureism's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureism&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=0d1117)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureism&theme=dark" alt="pureism" /></p>
 
